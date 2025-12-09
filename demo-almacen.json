@@ -6,11 +6,323 @@
     "descripcion": "Tu almacén de barrio de confianza",
     "es_demo": true
   },
-  "categorias": {},
-  "productos": [],
-  "total_productos": 0,
-  "total_categorias": 0,
-  "fecha_actualizacion": "2025-12-09T02:23:15.524Z",
+  "categorias": {
+    "Almacen": [
+      {
+        "id": "ALM001",
+        "categoria": "Almacen",
+        "nombre": "Aceite Girasol 900ml",
+        "descripcion": "Aceite Cocinero 900ml alto oleico",
+        "precio": 1250,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FFD700/000?text=Aceite",
+        "orden": 1
+      },
+      {
+        "id": "ALM002",
+        "categoria": "Almacen",
+        "nombre": "Arroz Largo Fino 1kg",
+        "descripcion": "Arroz Gallo Oro largo fino 1kg",
+        "precio": 890,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/F5DEB3/000?text=Arroz",
+        "orden": 2
+      },
+      {
+        "id": "ALM003",
+        "categoria": "Almacen",
+        "nombre": "Fideos Mostachol 500g",
+        "descripcion": "Fideos Matarazzo mostachol 500g",
+        "precio": 650,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FFE4B5/000?text=Fideos",
+        "orden": 3
+      },
+      {
+        "id": "ALM004",
+        "categoria": "Almacen",
+        "nombre": "Azúcar Común 1kg",
+        "descripcion": "Azúcar Ledesma común 1kg",
+        "precio": 780,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FFF8DC/000?text=Azucar",
+        "orden": 4
+      },
+      {
+        "id": "ALM005",
+        "categoria": "Almacen",
+        "nombre": "Sal Fina 500g",
+        "descripcion": "Sal fina Dos Anclas 500g",
+        "precio": 420,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/E0E0E0/000?text=Sal",
+        "orden": 5
+      },
+      {
+        "id": "ALM006",
+        "categoria": "Almacen",
+        "nombre": "Harina 0000 1kg",
+        "descripcion": "Harina 0000 Pureza 1kg",
+        "precio": 580,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FAEBD7/000?text=Harina",
+        "orden": 6
+      }
+    ],
+    "Conservas": [
+      {
+        "id": "ALM007",
+        "categoria": "Conservas",
+        "nombre": "Puré de Tomate 520g",
+        "descripcion": "Arcor puré de tomate 520g",
+        "precio": 920,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FF6347/fff?text=Tomate",
+        "orden": 7
+      },
+      {
+        "id": "ALM008",
+        "categoria": "Conservas",
+        "nombre": "Arvejas en Lata 300g",
+        "descripcion": "Arvejas Arcor lata 300g",
+        "precio": 780,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/90EE90/000?text=Arvejas",
+        "orden": 8
+      },
+      {
+        "id": "ALM009",
+        "categoria": "Conservas",
+        "nombre": "Choclo Cremoso 300g",
+        "descripcion": "Choclo Arcor cremoso 300g",
+        "precio": 850,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/F0E68C/000?text=Choclo",
+        "orden": 9
+      }
+    ],
+    "Bebidas": [
+      {
+        "id": "ALM010",
+        "categoria": "Bebidas",
+        "nombre": "Coca Cola 2.25L",
+        "descripcion": "Coca Cola 2.25 litros",
+        "precio": 1450,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/DC143C/fff?text=CocaCola",
+        "orden": 10
+      },
+      {
+        "id": "ALM011",
+        "categoria": "Bebidas",
+        "nombre": "Agua Mineral 2L",
+        "descripcion": "Villavicencio sin gas 2L",
+        "precio": 650,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/87CEEB/000?text=Agua",
+        "orden": 11
+      },
+      {
+        "id": "ALM012",
+        "categoria": "Bebidas",
+        "nombre": "Jugo Multifruta 1.5L",
+        "descripcion": "Baggio multifruta 1.5L",
+        "precio": 890,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/FF8C00/fff?text=Jugo",
+        "orden": 12
+      }
+    ],
+    "Snacks": [
+      {
+        "id": "ALM013",
+        "categoria": "Snacks",
+        "nombre": "Galletitas Express 300g",
+        "descripcion": "Terrabusi Express x 300g",
+        "precio": 1350,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/DEB887/000?text=Galletitas",
+        "orden": 13
+      },
+      {
+        "id": "ALM014",
+        "categoria": "Snacks",
+        "nombre": "Alfajores Havanna x6",
+        "descripcion": "Havanna caja x 6 unidades",
+        "precio": 2800,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/8B4513/fff?text=Alfajor",
+        "orden": 14
+      }
+    ],
+    "Limpieza": [
+      {
+        "id": "ALM015",
+        "categoria": "Limpieza",
+        "nombre": "Detergente Magistral 500ml",
+        "descripcion": "Magistral limón 500ml",
+        "precio": 980,
+        "unidad": "unidad",
+        "imagen": "https://via.placeholder.com/300x300/32CD32/fff?text=Detergente",
+        "orden": 15
+      }
+    ]
+  },
+  "productos": [
+    {
+      "id": "ALM001",
+      "categoria": "Almacen",
+      "nombre": "Aceite Girasol 900ml",
+      "descripcion": "Aceite Cocinero 900ml alto oleico",
+      "precio": 1250,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FFD700/000?text=Aceite",
+      "orden": 1
+    },
+    {
+      "id": "ALM002",
+      "categoria": "Almacen",
+      "nombre": "Arroz Largo Fino 1kg",
+      "descripcion": "Arroz Gallo Oro largo fino 1kg",
+      "precio": 890,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/F5DEB3/000?text=Arroz",
+      "orden": 2
+    },
+    {
+      "id": "ALM003",
+      "categoria": "Almacen",
+      "nombre": "Fideos Mostachol 500g",
+      "descripcion": "Fideos Matarazzo mostachol 500g",
+      "precio": 650,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FFE4B5/000?text=Fideos",
+      "orden": 3
+    },
+    {
+      "id": "ALM004",
+      "categoria": "Almacen",
+      "nombre": "Azúcar Común 1kg",
+      "descripcion": "Azúcar Ledesma común 1kg",
+      "precio": 780,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FFF8DC/000?text=Azucar",
+      "orden": 4
+    },
+    {
+      "id": "ALM005",
+      "categoria": "Almacen",
+      "nombre": "Sal Fina 500g",
+      "descripcion": "Sal fina Dos Anclas 500g",
+      "precio": 420,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/E0E0E0/000?text=Sal",
+      "orden": 5
+    },
+    {
+      "id": "ALM006",
+      "categoria": "Almacen",
+      "nombre": "Harina 0000 1kg",
+      "descripcion": "Harina 0000 Pureza 1kg",
+      "precio": 580,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FAEBD7/000?text=Harina",
+      "orden": 6
+    },
+    {
+      "id": "ALM007",
+      "categoria": "Conservas",
+      "nombre": "Puré de Tomate 520g",
+      "descripcion": "Arcor puré de tomate 520g",
+      "precio": 920,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FF6347/fff?text=Tomate",
+      "orden": 7
+    },
+    {
+      "id": "ALM008",
+      "categoria": "Conservas",
+      "nombre": "Arvejas en Lata 300g",
+      "descripcion": "Arvejas Arcor lata 300g",
+      "precio": 780,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/90EE90/000?text=Arvejas",
+      "orden": 8
+    },
+    {
+      "id": "ALM009",
+      "categoria": "Conservas",
+      "nombre": "Choclo Cremoso 300g",
+      "descripcion": "Choclo Arcor cremoso 300g",
+      "precio": 850,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/F0E68C/000?text=Choclo",
+      "orden": 9
+    },
+    {
+      "id": "ALM010",
+      "categoria": "Bebidas",
+      "nombre": "Coca Cola 2.25L",
+      "descripcion": "Coca Cola 2.25 litros",
+      "precio": 1450,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/DC143C/fff?text=CocaCola",
+      "orden": 10
+    },
+    {
+      "id": "ALM011",
+      "categoria": "Bebidas",
+      "nombre": "Agua Mineral 2L",
+      "descripcion": "Villavicencio sin gas 2L",
+      "precio": 650,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/87CEEB/000?text=Agua",
+      "orden": 11
+    },
+    {
+      "id": "ALM012",
+      "categoria": "Bebidas",
+      "nombre": "Jugo Multifruta 1.5L",
+      "descripcion": "Baggio multifruta 1.5L",
+      "precio": 890,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/FF8C00/fff?text=Jugo",
+      "orden": 12
+    },
+    {
+      "id": "ALM013",
+      "categoria": "Snacks",
+      "nombre": "Galletitas Express 300g",
+      "descripcion": "Terrabusi Express x 300g",
+      "precio": 1350,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/DEB887/000?text=Galletitas",
+      "orden": 13
+    },
+    {
+      "id": "ALM014",
+      "categoria": "Snacks",
+      "nombre": "Alfajores Havanna x6",
+      "descripcion": "Havanna caja x 6 unidades",
+      "precio": 2800,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/8B4513/fff?text=Alfajor",
+      "orden": 14
+    },
+    {
+      "id": "ALM015",
+      "categoria": "Limpieza",
+      "nombre": "Detergente Magistral 500ml",
+      "descripcion": "Magistral limón 500ml",
+      "precio": 980,
+      "unidad": "unidad",
+      "imagen": "https://via.placeholder.com/300x300/32CD32/fff?text=Detergente",
+      "orden": 15
+    }
+  ],
+  "total_productos": 15,
+  "total_categorias": 5,
+  "fecha_actualizacion": "2025-12-09T02:28:39.304Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
