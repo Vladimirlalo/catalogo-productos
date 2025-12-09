@@ -1,9 +1,9 @@
 {
   "success": true,
   "negocio": {
-    "nombre": "Carnicería La Esquina",
+    "nombre": "Carnicería Tarquino & Virtuoso",
     "tipo": "Carnicería",
-    "descripcion": "Carnes premium y cortes selectos",
+    "descripcion": "Carne Argentina de Calidad - Paraná ER",
     "es_demo": true
   },
   "categorias": {
@@ -320,7 +320,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 4,
-  "fecha_actualizacion": "2025-12-09T02:28:32.926Z",
+  "fecha_actualizacion": "2025-12-09T02:50:17.966Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
