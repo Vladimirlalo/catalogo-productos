@@ -1,1 +1,18 @@
-
+{
+  "success": true,
+  "negocio": {
+    "nombre": "Carnicería La Esquina",
+    "tipo": "Carnicería",
+    "descripcion": "Carnes premium y cortes selectos",
+    "es_demo": true
+  },
+  "categorias": {},
+  "productos": [],
+  "total_productos": 0,
+  "total_categorias": 0,
+  "fecha_actualizacion": "2025-12-09T02:23:13.635Z",
+  "metadata": {
+    "version": "1.0",
+    "generado_por": "NodoPropio Demo System"
+  }
+}
