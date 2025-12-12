@@ -15,7 +15,7 @@
         "descripcion": "Aceite Cocinero 900ml alto oleico",
         "precio": 1250,
         "unidad": "unidad",
-        "imagen": "https://via.placeholder.com/300x300/FFD700/000?text=Aceite",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Aceite-de-Girasol-Girasol-900.jpg",
         "orden": 1
       },
       {
@@ -176,7 +176,7 @@
       "descripcion": "Aceite Cocinero 900ml alto oleico",
       "precio": 1250,
       "unidad": "unidad",
-      "imagen": "https://via.placeholder.com/300x300/FFD700/000?text=Aceite",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Aceite-de-Girasol-Girasol-900.jpg",
       "orden": 1
     },
     {
@@ -322,7 +322,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 5,
-  "fecha_actualizacion": "2025-12-09T02:50:20.033Z",
+  "fecha_actualizacion": "2025-12-12T01:02:47.252Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
