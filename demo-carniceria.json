@@ -109,7 +109,7 @@
         "descripcion": "Con hueso ideal para horno",
         "precio": 2400,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Pata-y-muslo-Fb.webp",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Pata-y-muslo-Fb.avif",
         "orden": 10
       },
       {
@@ -264,7 +264,7 @@
       "descripcion": "Con hueso ideal para horno",
       "precio": 2400,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Pata-y-muslo-Fb.webp",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Pata-y-muslo-Fb.avif",
       "orden": 10
     },
     {
@@ -320,7 +320,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 4,
-  "fecha_actualizacion": "2025-12-14T16:29:12.270Z",
+  "fecha_actualizacion": "2025-12-14T16:45:06.000Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
