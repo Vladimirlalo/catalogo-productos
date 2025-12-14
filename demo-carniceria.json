@@ -55,7 +55,7 @@
         "descripcion": "Corte magro versátil",
         "precio": 7800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Nalga.webp",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Nalga.avif",
         "orden": 5
       }
     ],
@@ -214,7 +214,7 @@
       "descripcion": "Corte magro versátil",
       "precio": 7800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Nalga.webp",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Nalga.avif",
       "orden": 5
     },
     {
@@ -320,7 +320,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 4,
-  "fecha_actualizacion": "2025-12-14T16:45:06.000Z",
+  "fecha_actualizacion": "2025-12-14T17:44:26.553Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
