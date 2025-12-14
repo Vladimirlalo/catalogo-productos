@@ -15,7 +15,7 @@
         "descripcion": "Corte premium con hueso ideal para parrilla",
         "precio": 8500,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/asado-de-tira-.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/asado-de-tira-.avif",
         "orden": 1
       },
       {
@@ -25,7 +25,7 @@
         "descripcion": "Corte jugoso y tierno sin hueso",
         "precio": 9200,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/vacio-scaled.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/vacio.avif",
         "orden": 2
       },
       {
@@ -35,7 +35,7 @@
         "descripcion": "Corte premium sin grasa excesiva",
         "precio": 11500,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/anguschorizo-crudo.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/anguschorizo-crudo.avif",
         "orden": 3
       },
       {
@@ -45,7 +45,7 @@
         "descripcion": "Ideal para milanesas o al horno",
         "precio": 9800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/COLITA-DE-CUADRIL-1.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/COLITA-DE-CUADRIL-1.avif",
         "orden": 4
       },
       {
@@ -67,7 +67,7 @@
         "descripcion": "Ideal para hornear o a la parrilla",
         "precio": 5200,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/BONDIOLA.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/BONDIOLA.avif",
         "orden": 6
       },
       {
@@ -77,7 +77,7 @@
         "descripcion": "Tiernas costillitas de cerdo",
         "precio": 4800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/costillas_marinadas.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/costillas_marinadas.avif",
         "orden": 7
       },
       {
@@ -87,7 +87,7 @@
         "descripcion": "Corte fino ideal para arrollados",
         "precio": 6500,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Matambre.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Matambre.avif",
         "orden": 8
       }
     ],
@@ -99,7 +99,7 @@
         "descripcion": "Pechuga deshuesada sin piel",
         "precio": 3200,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/pechuga_pollo.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/pechuga_pollo.avif",
         "orden": 9
       },
       {
@@ -119,7 +119,7 @@
         "descripcion": "Perfectas para fritar o hornear",
         "precio": 2800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/proveedor-alas-de-pollo.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/proveedor-alas-de-pollo.avif",
         "orden": 11
       }
     ],
@@ -131,7 +131,7 @@
         "descripcion": "Chorizo criollo casero",
         "precio": 4500,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/CHORIZOS-FRESCOS-1-1024x681-1.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/CHORIZOS-FRESCOS-1-1024x681-1.avif",
         "orden": 12
       },
       {
@@ -141,7 +141,7 @@
         "descripcion": "Morcilla criolla tradicional",
         "precio": 3800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/como-hacer-morcilla-casera-de-cerdo-800x600-1.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/como-hacer-morcilla-casera-de-cerdo-800x600-1.avif",
         "orden": 13
       },
       {
@@ -151,7 +151,7 @@
         "descripcion": "Medallones de carne 120gr",
         "precio": 1200,
         "unidad": "unidad",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/hamburguesa-casera-de-ternera.jpeg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/hamburguesa-casera-de-ternera.avif",
         "orden": 14
       },
       {
@@ -161,7 +161,7 @@
         "descripcion": "Milanesas de nalga rebozadas",
         "precio": 6800,
         "unidad": "kg",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/milanesas-pollo.jpg",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/milanesas-pollo.avif",
         "orden": 15
       }
     ]
@@ -174,7 +174,7 @@
       "descripcion": "Corte premium con hueso ideal para parrilla",
       "precio": 8500,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/asado-de-tira-.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/asado-de-tira-.avif",
       "orden": 1
     },
     {
@@ -184,7 +184,7 @@
       "descripcion": "Corte jugoso y tierno sin hueso",
       "precio": 9200,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/vacio-scaled.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/vacio.avif",
       "orden": 2
     },
     {
@@ -194,7 +194,7 @@
       "descripcion": "Corte premium sin grasa excesiva",
       "precio": 11500,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/anguschorizo-crudo.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/anguschorizo-crudo.avif",
       "orden": 3
     },
     {
@@ -204,7 +204,7 @@
       "descripcion": "Ideal para milanesas o al horno",
       "precio": 9800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/COLITA-DE-CUADRIL-1.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/COLITA-DE-CUADRIL-1.avif",
       "orden": 4
     },
     {
@@ -224,7 +224,7 @@
       "descripcion": "Ideal para hornear o a la parrilla",
       "precio": 5200,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/BONDIOLA.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/BONDIOLA.avif",
       "orden": 6
     },
     {
@@ -234,7 +234,7 @@
       "descripcion": "Tiernas costillitas de cerdo",
       "precio": 4800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/costillas_marinadas.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/costillas_marinadas.avif",
       "orden": 7
     },
     {
@@ -244,7 +244,7 @@
       "descripcion": "Corte fino ideal para arrollados",
       "precio": 6500,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Matambre.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Matambre.avif",
       "orden": 8
     },
     {
@@ -254,7 +254,7 @@
       "descripcion": "Pechuga deshuesada sin piel",
       "precio": 3200,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/pechuga_pollo.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/pechuga_pollo.avif",
       "orden": 9
     },
     {
@@ -274,7 +274,7 @@
       "descripcion": "Perfectas para fritar o hornear",
       "precio": 2800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/proveedor-alas-de-pollo.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/proveedor-alas-de-pollo.avif",
       "orden": 11
     },
     {
@@ -284,7 +284,7 @@
       "descripcion": "Chorizo criollo casero",
       "precio": 4500,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/CHORIZOS-FRESCOS-1-1024x681-1.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/CHORIZOS-FRESCOS-1-1024x681-1.avif",
       "orden": 12
     },
     {
@@ -294,7 +294,7 @@
       "descripcion": "Morcilla criolla tradicional",
       "precio": 3800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/como-hacer-morcilla-casera-de-cerdo-800x600-1.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/como-hacer-morcilla-casera-de-cerdo-800x600-1.avif",
       "orden": 13
     },
     {
@@ -304,7 +304,7 @@
       "descripcion": "Medallones de carne 120gr",
       "precio": 1200,
       "unidad": "unidad",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/hamburguesa-casera-de-ternera.jpeg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/hamburguesa-casera-de-ternera.avif",
       "orden": 14
     },
     {
@@ -314,13 +314,13 @@
       "descripcion": "Milanesas de nalga rebozadas",
       "precio": 6800,
       "unidad": "kg",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/milanesas-pollo.jpg",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/milanesas-pollo.avif",
       "orden": 15
     }
   ],
   "total_productos": 15,
   "total_categorias": 4,
-  "fecha_actualizacion": "2025-12-12T02:21:07.090Z",
+  "fecha_actualizacion": "2025-12-14T13:50:52.901Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
