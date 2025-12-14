@@ -65,7 +65,7 @@
         "descripcion": "Harina 0000 Pureza 1kg",
         "precio": 580,
         "unidad": "unidad",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Harina-2000.png",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Harina-2000.avif",
         "orden": 6
       }
     ],
@@ -226,7 +226,7 @@
       "descripcion": "Harina 0000 Pureza 1kg",
       "precio": 580,
       "unidad": "unidad",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Harina-2000.png",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Harina-2000.avif",
       "orden": 6
     },
     {
@@ -322,7 +322,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 5,
-  "fecha_actualizacion": "2025-12-14T13:50:55.228Z",
+  "fecha_actualizacion": "2025-12-14T16:29:14.656Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
