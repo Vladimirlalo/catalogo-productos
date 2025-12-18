@@ -45,7 +45,7 @@
         "descripcion": "Azúcar Ledesma común 1kg",
         "precio": 780,
         "unidad": "unidad",
-        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Azucar-Clasica-Ledesma-1-Kg-1.webp",
+        "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Azucar-Clasica-Ledesma-1-Kg-1.avif",
         "orden": 4
       },
       {
@@ -206,7 +206,7 @@
       "descripcion": "Azúcar Ledesma común 1kg",
       "precio": 780,
       "unidad": "unidad",
-      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Azucar-Clasica-Ledesma-1-Kg-1.webp",
+      "imagen": "https://nodopropio.duckdns.org/wp-content/uploads/2025/12/Azucar-Clasica-Ledesma-1-Kg-1.avif",
       "orden": 4
     },
     {
@@ -322,7 +322,7 @@
   ],
   "total_productos": 15,
   "total_categorias": 5,
-  "fecha_actualizacion": "2025-12-14T16:45:08.003Z",
+  "fecha_actualizacion": "2025-12-18T23:32:33.607Z",
   "metadata": {
     "version": "1.0",
     "generado_por": "NodoPropio Demo System"
